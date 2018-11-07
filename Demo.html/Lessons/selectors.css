@@ -112,8 +112,21 @@ text-transform: uppercase;
                                                 /*Make the first letter of the element with id 'special' green and
                                                 100px font size(font-size: 100)*/
 
+#special::first-letter{
 
+color: green;
+font-size: 100;
+
+}
                                                 /*Make the <h1> element's color change to blue when hovered over */
+h1:hover{
 
+    color: blue ;
+
+}
 
                                                     /*Make the <a> element's that have been visited gray */
+                                                    a:visited{
+
+                                                        color: grey;
+                                                    }
