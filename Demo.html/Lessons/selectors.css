@@ -54,13 +54,27 @@ border: 2px blue;
 }
 
                 /*Make all the <p>'s that are nested inside of divs 25px font(font-size: 25px)*/
+div p{
 
+    font-size: 25px;
+
+
+}
 
                     /*Make only inputs with type 'text' have a gray background*/
 
+                    input [type="text"]{
+                        
+background: gray;
+    
+
+                    }
 
                     /* Give both <p>'s inside the 3rd <div> a pink background*/
+div:nth-child(3)p{
 
+    color: pink;
+}
 
                             /* Give the 2nd <p> inside the 3rd <div> a 5px white border*/
 
