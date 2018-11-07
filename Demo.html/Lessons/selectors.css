@@ -36,7 +36,7 @@ p{
                 /*Make all inputs have a 3px red border*/
 input{
 
-    border: 3px red;
+    border: 3px red solid;
 }
 
                 /* Give everything with the class 'hello' a white background*/
@@ -77,7 +77,7 @@ div:nth-child(3)p{
 }
 
                             /* Give the 2nd <p> inside the 3rd <div> a 5px white border*/
-
+div
 
                                     /* Make the <em> in the 3rd <div> element white and 20px font(font-size:20px)*/
 
