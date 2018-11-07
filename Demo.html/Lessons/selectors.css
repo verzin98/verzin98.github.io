@@ -96,7 +96,10 @@ div:nth-child(3) em{
 
                                             /*Make all "checked" checkboxes have a left margin of 50px(margin-left:
                                             50px)*/
+input:checked{
 
+    margin-left: 50px;
+}
 
                                             /* Make the <label> elements all UPPERCASE without changing the
                                                 HTML(definitely look this one up*/
