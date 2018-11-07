@@ -40,10 +40,18 @@ input{
 }
 
                 /* Give everything with the class 'hello' a white background*/
+.hello{
 
+    background: white;
+
+}
 
                 /* Give the element with id 'special' a 2px solid blue border(pick your own rgb blue)*/
+#special{
 
+border: 2px blue;
+
+}
 
                 /*Make all the <p>'s that are nested inside of divs 25px font(font-size: 25px)*/
 
