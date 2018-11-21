@@ -1,6 +1,12 @@
 h1{
 
     font-size: 20px;
-    font-family: 'Gill Sans';
+    font-family: 'Source Sans Pro', sans-serif;
+    color: aqua;
+
+}
+h2{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
 
 }
