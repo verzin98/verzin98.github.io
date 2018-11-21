@@ -1,8 +1,12 @@
 body{
 
+
     border: 30px #bcd7cf;
     border-style:  solid;
     padding: 15px;
+    max-width: 50%;
+    
+  
 
 }
 
