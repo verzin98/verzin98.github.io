@@ -1,9 +1,18 @@
-h1{
+body{
 
+    border: 30px #bcd7cf;
+    border-style:  solid;
+    padding: 15px;
+
+}
+
+h1{
+    text-transform: uppercase;
     font-size: 20px;
     font-family: 'Source Sans Pro', sans-serif;
     color:#3098dd;
-
+    letter-spacing: 2px;
+    
 }
 h2{
     font-family: 'Source Sans Pro', sans-serif;
@@ -15,7 +24,8 @@ h2{
 h3{
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 15px;
-    border-left: 3px #bdc7cf;
+    border-left: 3px solid#717d86;
+    padding: 5px;
 }
 h4{
     font-family: 'Source Sans Pro', sans-serif;
