@@ -2,17 +2,24 @@ h1{
 
     font-size: 20px;
     font-family: 'Source Sans Pro', sans-serif;
-    color: aqua;
+    color:#3098dd;
 
 }
 h2{
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 30px;
+    color: #354b63;
 
 }
 
 h3{
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 15px;
+    border-left: 3px solid black;
+}
+h4{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 15px;
+
 }
 
