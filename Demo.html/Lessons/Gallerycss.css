@@ -1,6 +1,13 @@
 h1{
 
-
 font-family: 'Gill Sans', serif;
+
+}
+
+img{
+    float: left;
+width:30% ;
+height: auto ;
+margin: 1.66% ;
 
 }
