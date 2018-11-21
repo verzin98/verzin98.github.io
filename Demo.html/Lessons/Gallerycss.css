@@ -9,5 +9,8 @@ img{
 width:30% ;
 height: auto ;
 margin: 1.66% ;
+}
+div{
 
+    max-width: 800px ;
 }
