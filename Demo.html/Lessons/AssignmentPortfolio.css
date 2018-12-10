@@ -2,6 +2,7 @@ body{
     background-color: #161616;
 
 }
+
   /* Position the navbar container inside the image */
   .container {
     position: absolute;
@@ -32,16 +33,16 @@ body{
   }
 
   h1{
-    position: absolute;
-		top: 0;
-        left: 0;
+    position: relative;
+        top: 8px;
+        left: 0px;
         opacity: 0.6;
 }
 
 h2{
     position: absolute;
-		top: 60px;
-        left: 430px;
+		top: 80px;
+        left: 500px;
     
 }
 
